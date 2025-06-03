@@ -1,5 +1,7 @@
-Django
+django
 ccxt
 pandas
 python-dotenv
 pybit
+gunicorn
+whitenoise
