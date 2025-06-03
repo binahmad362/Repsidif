@@ -1,0 +1,5 @@
+Django
+ccxt
+pandas
+python-dotenv
+pybit
